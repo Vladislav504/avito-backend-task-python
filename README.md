@@ -13,7 +13,7 @@
 
 Скопировать репозиторий:
 ```bash
-git clone ... avito_task
+git clone https://github.com/Vladislav504/avito-backend-task-python.git avito_task
 cd avito_task
 ```
 Установить библиотеку:
